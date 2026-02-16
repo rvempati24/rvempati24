@@ -1,4 +1,4 @@
-# Hi, I'm Rishab Vempati
+# About Me
 
 CS & Artificial Intelligence Junior @ Purdue University (Expected Graduation: May 2027)
 
