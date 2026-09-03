@@ -1,6 +1,6 @@
 # About Me
 
-CS & Artificial Intelligence Junior @ Purdue University (Expected Graduation: May 2027)
+CS & Artificial Intelligence Junior @ Purdue University (Expected Graduation: Dec 2027)
 
 Interested in machine learning research: particularly information retrieval, RAG systems, and applied ML. I also have industry experience building distributed systems and production infrastructure.
 
